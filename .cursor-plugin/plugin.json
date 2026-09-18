@@ -4,7 +4,7 @@
   "description": "Connect Lavo CRM to your agent — customers, quotes, jobs, schedule, and invoices for pressure-washing companies. Sign in with your Lavo CRM account (OAuth).",
   "author": {
     "name": "Fiat Software",
-    "email": "aaron@lavocrm.com"
+    "email": "support@lavocrm.com"
   },
   "homepage": "https://lavocrm.com",
   "repository": "https://github.com/aaronmay82/lavo-crm-cursor-plugin",

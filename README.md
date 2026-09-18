@@ -31,7 +31,7 @@ Auth is OAuth 2.1 via your Lavo CRM login (dynamic client registration).
 ## Support
 
 - Product: https://lavocrm.com
-- Email: aaron@lavocrm.com
+- Email: support@lavocrm.com
 
 ## License
 
